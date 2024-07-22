@@ -1,6 +1,7 @@
 # MIPS Processor Implementation in Verilog
 ## Overview
 This repository contains a Verilog implementation of a MIPS processor, along with a testbench to verify its functionality. The project was developed as part of a university project
+
 ![plot](https://i.sstatic.net/qlfAf.png)
 ## Features
 - A fully functional MIPS processor implemented in Verilog
