@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   02:43:51 01/09/2024
-// Design Name:   adder
-// Module Name:   C:/Documents and Settings/Administrator/Desktop/finally/add_tb.v
-// Project Name:  finally
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: adder
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module add_tb;
 
 	// Inputs
