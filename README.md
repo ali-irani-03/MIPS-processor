@@ -8,3 +8,5 @@ This repository contains a Verilog implementation of a MIPS processor, along wit
 - Written in Verilog HDL 
 ## Example
 The binary instructions needed to calculate a multiplication and a factorial are written in the instruction_memory.v file.
+
+(https://i.sstatic.net/qlfAf.png)
